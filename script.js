@@ -50,5 +50,6 @@ let substring = sentence.substring(10, 25);
 console.log(substring)
 
 //Task 4
+
 let sentence2 = "The quick brown fox";
 console.log(sentence2.split(' '))
